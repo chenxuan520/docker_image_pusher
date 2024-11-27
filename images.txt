@@ -1,2 +1,6 @@
-neosmemo/memos:0.22.5
-apkdv/siyuan-unlock:v103.1.10
+# 已经存在的
+# neosmemo/memos:0.22.5
+# apkdv/siyuan-unlock:v103.1.10
+
+louislam/uptime-kuma:latest
+minio/minio:latest
