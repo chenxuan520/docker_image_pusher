@@ -6,4 +6,5 @@
 # searxng/searxng:latest
 # adminer:latest
 # adicom/admin-mongo:latest
-neosmemo/memos:0.21.0
+# neosmemo/memos:0.21.0
+ubuntu:22.04
